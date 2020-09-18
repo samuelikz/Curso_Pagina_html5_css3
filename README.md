@@ -2,12 +2,11 @@
 > Status do Projeto: Concluido :heavy_check_mark:
 
 <br>
-:page_with_curl:Projeto - Criação da Pagina utilizando o Bootstrap.
 
-## :cat: Descrição 
+## 📲Descrição 
 
-Pagina criada com base do Curso Html Na #Digitalinovationone, baseado no conteúdo de materiais do disponivel no curso.
-Com objetivo de aprendizagem. [#Digitalinovationone](https://digitalinnovation.one).
+Pagina criada com base do Curso Web Na #Digitalinovationone, Usando os conteúdo abordados e materiais do disponivel no curso.
+Objetivo de aprendizagem. [#Digitalinovationone](https://digitalinnovation.one).
 
 <br>
 
