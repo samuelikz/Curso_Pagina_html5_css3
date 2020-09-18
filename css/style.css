@@ -1,17 +1,63 @@
-body{
-  margin-left: 100px; 
-  margin-right: 200px;
+*{
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0px!important;
 }
-
-header{margin-top: 60px;}
 
 footer{margin-bottom: 30px;}
 
-h1{font-family: fantasy;}
+ul, li{
+	list-style-type: none;
+}
 
-h2{font-family: fantasy;}
+p{font-size: 18px; padding-bottom: 10px;}
 
-p{font-size: 18px;}
-
-.img_padrao{margin-bottom: 20px; width: 300px;}
+.img_padrao{margin-bottom: 20px; width: 400px; height: 300px; padding: 30px;}
 .img_contatos{width: 30px;}
+
+.navbar {
+	background-color: #678C16;
+}
+
+.navbar a{
+	color: #fff!important;
+}
+
+.navbar a:hover{
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.margin{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.sobre{
+	background-color: #F2EFC2;
+	height: 170px;
+}
+
+.servico {
+	background-color: #F2E5A2;
+}
+
+div.card{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.cliente {
+	background-color: #F2F2F2;
+}
+
+.parceiro{
+	background-color: #90BF2A!important;
+}
+
+.contatos {
+	background-color: #F2EFC2;
+}
+
+.footer{
+	background-color: #F2E5A2;
+}
