@@ -1,6 +1,33 @@
-# Projeto para Estudos - #DigitalInnovationone
+
+
+### Algumas Imagens ###
+![Dashboard](https://i.imgur.com/xbS3x4T.png "Dashboard")
+
+![Dashboard](https://i.imgur.com/EK730wY.png "Dashboard")
+> Status do Projeto: Concluido :heavy_check_mark:
+
+<br>
+:page_with_curl:Projeto - Criação da Pagina utilizando o Bootstrap.
+
+## :cat: Descrição 
 
 Pagina criada com base do Curso Html Na #Digitalinovationone, baseado no conteúdo de materiais do disponivel no curso.
-Com objetivo de aprendizagem.
+Com objetivo de aprendizagem. [#Digitalinovationone](https://digitalinnovation.one).
 
-:page_with_curl:Projeto - Criação da Pagina utilizando o | Html | Css .
+<br>
+
+### :speech_balloon: Tecnologias 
+
+- Html
+- Css
+- Bootstrap
+
+<h1 align="center">
+    <img alt="Bikcraft" title="Bikcraft" src="https://image.winudf.com/v2/image1/b25lLmRpZ2l0YWxpbm5vdmF0aW9uLmFwcF9pY29uXzE1NTM3MDIwNDNfMDQ2/icon.png?w=170&fakeurl=1" width="120px" />
+</h1>
+
+<br>
+
+![Dashboard](https://i.imgur.com/xbS3x4T.png "Dashboard")
+
+![Dashboard](https://i.imgur.com/EK730wY.png "Dashboard")
