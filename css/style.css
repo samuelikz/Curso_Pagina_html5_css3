@@ -23,7 +23,7 @@ p{font-size: 18px; padding-bottom: 10px;}
 .img_contatos{width: 30px;}
 
 .navbar {
-	background-color: #678C16;
+	background-color: #593C39;
 }
 
 .navbar a{
@@ -54,19 +54,22 @@ div.card{
 }
 
 .cliente {
-	background-color: #F2F2F2;
-}
-
-.parceiro{
-	background-color: #90BF2A!important;
-}
-
-.contatos {
 	background-color: #F2EFC2;
 }
 
-.footer{
+.parceiro{
 	background-color: #F2E5A2;
+}
+#time{
+    background-color: #F2EFC2;
+}
+
+.contatos {
+	background-color: #F2E5A2;
+}
+
+.footer{
+	background-color: #F2EFC2;
     height: 40px;
     padding: 10px;
 }
