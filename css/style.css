@@ -71,12 +71,6 @@ div.card{
 }
 
 #subir img{
-    width: 60px;
-    height: 50px;
-}
-
-#subir img:hover{
-    transition: width 3s, height 3s;
-    width: 70px;
-    height: 60px;
+    width: 65px;
+    height: 53px;
 }
