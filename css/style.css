@@ -4,10 +4,17 @@
   margin-bottom: 0px!important;
 }
 
+h1, h2, h3, h4 {
+    font-family: 'Yantramanav', sans-serif;
+}
+
 footer{margin-bottom: 30px;}
 
 ul, li{
 	list-style-type: none;
+}
+p{
+    font-family: 'Yantramanav', sans-serif;
 }
 
 p{font-size: 18px; padding-bottom: 10px;}
