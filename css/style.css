@@ -40,12 +40,7 @@ p{font-size: 18px; padding-bottom: 10px;}
 }
 
 .sobre{
-	background-color: #F2EFC2;
-	height: 270px;
-}
-
-.servico {
-	background-color: #F2E5A2;
+	height: 170px;
 }
 
 div.card{
@@ -53,23 +48,7 @@ div.card{
 	margin-bottom: 20px;
 }
 
-.cliente {
-	background-color: #F2EFC2;
-}
-
-.parceiro{
-	background-color: #F2E5A2;
-}
-#time{
-    background-color: #F2EFC2;
-}
-
-.contatos {
-	background-color: #F2E5A2;
-}
-
 .footer{
-	background-color: #F2EFC2;
     height: 40px;
     padding: 10px;
 }
