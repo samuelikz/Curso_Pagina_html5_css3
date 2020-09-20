@@ -41,7 +41,7 @@ p{font-size: 18px; padding-bottom: 10px;}
 
 .sobre{
 	background-color: #F2EFC2;
-	height: 170px;
+	height: 270px;
 }
 
 .servico {
@@ -67,4 +67,6 @@ div.card{
 
 .footer{
 	background-color: #F2E5A2;
+    height: 40px;
+    padding: 10px;
 }
