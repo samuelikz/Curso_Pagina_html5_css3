@@ -4,6 +4,10 @@
   margin-bottom: 0px!important;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 h1, h2, h3, h4 {
     font-family: 'Yantramanav', sans-serif;
 }
@@ -56,4 +60,17 @@ div.card{
 .footer{
     height: 40px;
     padding: 10px;
+}
+
+#subir{
+	position:fixed;
+	bottom:0px;
+	right:0px;
+    width: 50px;
+    height: 50px;
+}
+
+#subir img{
+    width: 60px;
+    height: 50px;
 }
