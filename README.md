@@ -23,6 +23,6 @@ Objetivo de aprendizagem. [#Digitalinovationone](https://digitalinnovation.one).
 <h1 align="center">Curso de Aprimoramento</h1>
 <br>
 
-![Dashboard](https://i.imgur.com/xbS3x4T.png "Dashboard")
+![Dashboard](https://i.imgur.com/Mwf3lMx.png"Dashboard")
 
 ![Dashboard](https://i.imgur.com/EK730wY.png "Dashboard")
