@@ -70,8 +70,8 @@ div.card{
 }
 
 @media only screen and (max-width: 768px) {
-  #subir img {
-    	display:none;
+	.voltarTopo {
+		display:none;
 	}
 }
 
