@@ -70,7 +70,7 @@ div.card{
 }
 
 @media (min-width: 992px)
-#subir {
+#subir img {
     display:none;
 }
 
