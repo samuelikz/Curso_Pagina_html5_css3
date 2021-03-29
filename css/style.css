@@ -38,6 +38,7 @@ hr {
 .img_contatos{width: 30px;}
 
 .navbar {
+	width: 100%;
 	background-color: #593C39;
 }
 
@@ -66,6 +67,11 @@ div.card{
 .footer{
     height: 40px;
     padding: 10px;
+}
+
+@media (min-width: 992px)
+#subir {
+    display:none;
 }
 
 #subir{
