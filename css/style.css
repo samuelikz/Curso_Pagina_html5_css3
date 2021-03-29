@@ -69,9 +69,10 @@ div.card{
     padding: 10px;
 }
 
-@media (min-width: 768px)
-#subir img {
-    display:none;
+@media only screen and (max-width: 768px) {
+  #subir img {
+    	display:none;
+	}
 }
 
 #subir{
